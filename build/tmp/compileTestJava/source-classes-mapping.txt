@@ -1,0 +1,2 @@
+com/triplengames/example/springboot/HelloControllerTest.java
+ com.triplengames.example.springboot.HelloControllerTest
